@@ -6,15 +6,15 @@
     "slug": "black-forest-botanics",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.05%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 379,
-    "timeDay": 346,
-    "timeWeek": 354,
+    "time": 380,
+    "timeDay": 493,
+    "timeWeek": 353,
     "timeMonth": 391,
-    "timeYear": 379,
+    "timeYear": 380,
     "dailyMinutesDown": {
       "2024-05-22": 24
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 71,
-    "timeDay": 56,
-    "timeWeek": 58,
-    "timeMonth": 66,
-    "timeYear": 71,
+    "time": 72,
+    "timeDay": 149,
+    "timeWeek": 55,
+    "timeMonth": 67,
+    "timeYear": 72,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 36,
-    "timeDay": 38,
-    "timeWeek": 33,
-    "timeMonth": 33,
-    "timeYear": 36,
+    "time": 37,
+    "timeDay": 84,
+    "timeWeek": 30,
+    "timeMonth": 32,
+    "timeYear": 37,
     "dailyMinutesDown": {}
   }
 ]
