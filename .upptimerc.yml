@@ -9,6 +9,10 @@ sites:
     url: https://dreamalligator.github.io/vondrak/
   - name: CV
     url: https://dreamalligator.github.io/cv/
+  - name: Coordinated Lunar Time
+    url: https://whatsthetimeonthemoon.com
+  - name: Daryls World
+    url: https://darylsworld.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
