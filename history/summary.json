@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 432,
-    "timeDay": 376,
-    "timeWeek": 382,
-    "timeMonth": 406,
-    "timeYear": 432,
+    "time": 433,
+    "timeDay": 657,
+    "timeWeek": 424,
+    "timeMonth": 417,
+    "timeYear": 433,
     "dailyMinutesDown": {
       "2024-05-22": 24
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 91,
-    "timeDay": 63,
-    "timeWeek": 70,
-    "timeMonth": 94,
+    "timeDay": 39,
+    "timeWeek": 62,
+    "timeMonth": 90,
     "timeYear": 91,
     "dailyMinutesDown": {}
   },
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 39,
-    "timeDay": 5,
-    "timeWeek": 16,
-    "timeMonth": 34,
+    "timeDay": 3,
+    "timeWeek": 11,
+    "timeMonth": 31,
     "timeYear": 39,
     "dailyMinutesDown": {}
   },
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 117,
-    "timeWeek": 142,
-    "timeMonth": 144,
-    "timeYear": 144,
+    "time": 147,
+    "timeDay": 198,
+    "timeWeek": 122,
+    "timeMonth": 147,
+    "timeYear": 147,
     "dailyMinutesDown": {}
   },
   {
@@ -79,18 +79,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/darylsworld.com.ico",
     "slug": "daryls-world",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 173,
-    "timeDay": 161,
-    "timeWeek": 153,
-    "timeMonth": 173,
-    "timeYear": 173,
-    "dailyMinutesDown": {
-      "2025-01-28": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 169,
+    "timeDay": 165,
+    "timeWeek": 138,
+    "timeMonth": 169,
+    "timeYear": 169,
+    "dailyMinutesDown": {}
   }
 ]
