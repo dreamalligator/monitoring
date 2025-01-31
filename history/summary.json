@@ -4,9 +4,9 @@
     "url": "https://blackforestbotanics.com/",
     "icon": "https://icons.duckduckgo.com/ip3/blackforestbotanics.com.ico",
     "slug": "black-forest-botanics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 416,
     "timeYear": 433,
     "dailyMinutesDown": {
+      "2025-01-31": 0,
       "2024-05-22": 24
     }
   },
